@@ -1,0 +1,150 @@
+﻿ID_names,ID,genus,species,chosen_genome,genome,element type,integration site,mob_type
+AE008923.1_-_ICE_guaA,AE008923.1 - ICE guaA,Xanthomonas,cissicola,AE008923.1 - ICE guaA,GCA_000007165.1,ICE,guaA,mobH
+CP004399.1_-_ICE_guaA,CP004399.1 - ICE guaA,Xanthomonas,cissicola,AE008923.1 - ICE guaA,GCA_000348585.1,ICE,guaA,mobH
+CP006857.1_-_ICE_guaA,CP006857.1 - ICE guaA,Xanthomonas,cissicola,AE008923.1 - ICE guaA,GCA_000816885.1,ICE,guaA,mobH
+CP008989.1_-_ICE_guaA,CP008989.1 - ICE guaA,Xanthomonas,cissicola,AE008923.1 - ICE guaA,GCA_000961155.1,ICE,guaA,mobH
+CP008992.1_-_ICE_guaA,CP008992.1 - ICE guaA,Xanthomonas,cissicola,AE008923.1 - ICE guaA,GCA_000961175.1,ICE,guaA,mobH
+CP008995.1_-_ICE_guaA,CP008995.1 - ICE guaA,Xanthomonas,cissicola,AE008923.1 - ICE guaA,GCA_000961195.1,ICE,guaA,mobH
+CP008998.1_-_ICE_guaA,CP008998.1 - ICE guaA,Xanthomonas,cissicola,AE008923.1 - ICE guaA,GCA_000961215.1,ICE,guaA,mobH
+CP009001.1_-_ICE_guaA,CP009001.1 - ICE guaA,Xanthomonas,cissicola,AE008923.1 - ICE guaA,GCA_000961235.1,ICE,guaA,mobH
+CP009004.1_-_ICE_guaA,CP009004.1 - ICE guaA,Xanthomonas,cissicola,AE008923.1 - ICE guaA,GCA_000961255.1,ICE,guaA,mobH
+CP009007.1_-_ICE_guaA,CP009007.1 - ICE guaA,Xanthomonas,cissicola,AE008923.1 - ICE guaA,GCA_000961275.1,ICE,guaA,mobH
+CP009010.1_-_ICE_guaA,CP009010.1 - ICE guaA,Xanthomonas,cissicola,AE008923.1 - ICE guaA,GCA_000961295.1,ICE,guaA,mobH
+CP009013.1_-_ICE_guaA,CP009013.1 - ICE guaA,Xanthomonas,cissicola,AE008923.1 - ICE guaA,GCA_000961315.1,ICE,guaA,mobH
+CP009016.1_-_ICE_guaA,CP009016.1 - ICE guaA,Xanthomonas,cissicola,AE008923.1 - ICE guaA,GCA_000961335.1,ICE,guaA,mobH
+CP009019.1_-_ICE_guaA,CP009019.1 - ICE guaA,Xanthomonas,cissicola,AE008923.1 - ICE guaA,GCA_000961355.1,ICE,guaA,mobH
+CP009022.1_-_ICE_guaA,CP009022.1 - ICE guaA,Xanthomonas,cissicola,AE008923.1 - ICE guaA,GCA_000961375.1,ICE,guaA,mobH
+CP009025.1_-_ICE_guaA,CP009025.1 - ICE guaA,Xanthomonas,cissicola,AE008923.1 - ICE guaA,GCA_000961395.1,ICE,guaA,mobH
+CP009028.1_-_ICE_guaA,CP009028.1 - ICE guaA,Xanthomonas,cissicola,AE008923.1 - ICE guaA,GCA_000961415.1,ICE,guaA,mobH
+CP011827.2_-_ICE_guaA,CP011827.2 - ICE guaA,Xanthomonas,cissicola,AE008923.1 - ICE guaA,GCA_001028285.3,ICE,guaA,mobH
+CP018847.1_-_ICE_guaA,CP018847.1 - ICE guaA,Xanthomonas,cissicola,AE008923.1 - ICE guaA,GCA_001922045.1,ICE,guaA,mobH
+CP018850.1_-_ICE_guaA,CP018850.1 - ICE guaA,Xanthomonas,cissicola,AE008923.1 - ICE guaA,GCA_001922085.1,ICE,guaA,mobH
+CP018854.1_-_ICE_guaA,CP018854.1 - ICE guaA,Xanthomonas,cissicola,AE008923.1 - ICE guaA,GCA_001922065.1,ICE,guaA,mobH
+CP018858.1_-_ICE_guaA,CP018858.1 - ICE guaA,Xanthomonas,cissicola,AE008923.1 - ICE guaA,GCA_001922105.1,ICE,guaA,mobH
+CP020885.1_-_ICE_guaA,CP020885.1 - ICE guaA,Xanthomonas,cissicola,AE008923.1 - ICE guaA,GCA_002139955.1,ICE,guaA,mobH
+CP023285.1_-_ICE_guaA,CP023285.1 - ICE guaA,Xanthomonas,cissicola,AE008923.1 - ICE guaA,GCA_002952295.1,ICE,guaA,mobH
+CP023661.1_-_ICE_guaA,CP023661.1 - ICE guaA,Xanthomonas,cissicola,AE008923.1 - ICE guaA,GCA_003665475.1,ICE,guaA,mobH
+CP023662.1_-_ICE_guaA,CP023662.1 - ICE guaA,Xanthomonas,cissicola,AE008923.1 - ICE guaA,GCA_003665455.1,ICE,guaA,mobH
+CP059992.1_-_ICE_guaA,CP059992.1 - ICE guaA,Xanthomonas,cissicola,AE008923.1 - ICE guaA,GCA_019434355.1,ICE,guaA,mobH
+CP059999.1_-_ICE_guaA,CP059999.1 - ICE guaA,Xanthomonas,cissicola,AE008923.1 - ICE guaA,GCA_019434315.1,ICE,guaA,mobH
+CP060002.1_-_ICE_guaA,CP060002.1 - ICE guaA,Xanthomonas,cissicola,AE008923.1 - ICE guaA,GCA_019434335.1,ICE,guaA,mobH
+CP060446.1_-_ICE_guaA_extended,CP060446.1 - ICE guaA extended,Xanthomonas,cissicola,AE008923.1 - ICE guaA,GCA_016801675.1,ICE,guaA,mobH
+CP060453.1_-_ICE_gua_extended,CP060453.1 - ICE gua extended,Xanthomonas,cissicola,AE008923.1 - ICE guaA,GCA_016801695.1,ICE,gua,mobH
+CP060470.1_-_ICE_guaA_extended,CP060470.1 - ICE guaA extended,Xanthomonas,cissicola,AE008923.1 - ICE guaA,GCA_016801655.1,ICE,guaA,mobH
+CP060476.1_-_ICE_guaA_crippled,CP060476.1 - ICE guaA crippled,Xanthomonas,cissicola,AE008923.1 - ICE guaA,GCA_016801715.1,ICE,guaA,mobH
+CP062255.2_-_ICE_guaA,CP062255.2 - ICE guaA,Xanthomonas,cissicola,AE008923.1 - ICE guaA,GCA_015224665.2,ICE,guaA,mobH
+CP075325.1_-_ICE_guaA,CP075325.1 - ICE guaA,Xanthomonas,cissicola,AE008923.1 - ICE guaA,GCA_019076985.1,ICE,guaA,mobH
+CP096227.1_-_ICE_guaA,CP096227.1 - ICE guaA,Xanthomonas,cissicola,AE008923.1 - ICE guaA,GCA_023205075.1,ICE,guaA,mobH
+CP003778.1_-_ICE_tbd,CP003778.1 - ICE tbd,Xanthomonas,cissicola,CP003778.1 - ICE tbd,GCA_000349225.1,ICE,tbd,mobH
+CP009031.1_-_ICE_tbd,CP009031.1 - ICE tbd,Xanthomonas,cissicola,CP003778.1 - ICE tbd,GCA_000961435.1,ICE,tbd,mobH
+CP009037.1_-_ICE_tbd,CP009037.1 - ICE tbd,Xanthomonas,cissicola,CP003778.1 - ICE tbd,GCA_000961475.1,ICE,tbd,mobH
+CP009040.1_-_ICE_tbd,CP009040.1 - ICE tbd,Xanthomonas,cissicola,CP003778.1 - ICE tbd,GCA_000961495.1,ICE,tbd,mobH
+CP011250.1_-_ICE_tbd,CP011250.1 - ICE tbd,Xanthomonas,cissicola,CP011250.1 - ICE tbd,GCA_002079965.1,ICE,tbd,
+CP012002.1_-_ICE_tbd,CP012002.1 - ICE tbd,Xanthomonas,cissicola,CP011250.1 - ICE tbd,GCA_001610915.1,ICE,tbd,
+CP012051.1_-_ICE_tRNA-Gly,CP012051.1 - ICE tRNA-Gly,Xanthomonas,cissicola,CP012051.1 - ICE tRNA-Gly,GCA_004000475.1,ICE,tRNA-Gly,mobH
+CP012053.1_-_ICE_tRNA-Gly,CP012053.1 - ICE tRNA-Gly,Xanthomonas,cissicola,CP012051.1 - ICE tRNA-Gly,GCA_003999485.1,ICE,tRNA-Gly,mobH
+CP012055.1_-_ICE_tRNA-Gly,CP012055.1 - ICE tRNA-Gly,Xanthomonas,cissicola,CP012051.1 - ICE tRNA-Gly,GCA_003999505.1,ICE,tRNA-Gly,mobH
+CP029273.1_-_ICE_tRNA-Gly,CP029273.1 - ICE tRNA-Gly,Xanthomonas,cissicola,CP012051.1 - ICE tRNA-Gly,GCA_018831345.1,ICE,tRNA-Gly,mobH
+CP072265.1_-_ICE_tRNA-Gly,CP072265.1 - ICE tRNA-Gly,Xanthomonas,cissicola,CP012051.1 - ICE tRNA-Gly,GCA_017723895.1,ICE,tRNA-Gly,mobH
+CP013004.1_-_ICE_tRNA-Gly,CP013004.1 - ICE tRNA-Gly,Xanthomonas,cissicola,CP013004.1 - ICE tRNA-Gly,GCA_002224525.1,ICE,tRNA-Gly,mobH
+CP013006.1_-_ICE_tRNA-Gly,CP013006.1 - ICE tRNA-Gly,Xanthomonas,cissicola,CP013004.1 - ICE tRNA-Gly,GCA_002224545.1,ICE,tRNA-Gly,mobH
+CP015972.1_-_ICE_tRNA-Gly,CP015972.1 - ICE tRNA-Gly,Xanthomonas,cissicola,CP015972.1 - ICE tRNA-Gly,GCA_002163775.1,ICE,tRNA-Gly,mobH
+CP017188.2_-_ICE_tRNA-Gly,CP017188.2 - ICE tRNA-Gly,Xanthomonas,cissicola,CP017188.2 - ICE tRNA-Gly,GCA_001854145.2,ICE,tRNA-Gly,mobH
+CP041781.1_-_ICE_tRNA-Gly,CP041781.1 - ICE tRNA-Gly,Xanthomonas,cissicola,CP017188.2 - ICE tRNA-Gly,GCA_007567665.1,ICE,tRNA-Gly,mobH
+CP003778.1_-_ICE_tRNA-Gly,CP003778.1 - ICE tRNA-Gly,Xanthomonas,cissicola,CP003778.1 - ICE tRNA-Gly,GCA_000349225.1,ICE,tRNA-Gly,mobH
+CP009031.1_-_ICE_tRNA-Gly,CP009031.1 - ICE tRNA-Gly,Xanthomonas,cissicola,CP003778.1 - ICE tRNA-Gly,GCA_000961435.1,ICE,tRNA-Gly,mobH
+CP009034.1_-_ICE_tRNA-Gly,CP009034.1 - ICE tRNA-Gly,Xanthomonas,cissicola,CP003778.1 - ICE tRNA-Gly,GCA_000961455.1,ICE,tRNA-Gly,mobH
+CP009037.1_-_ICE_tRNA-Gly,CP009037.1 - ICE tRNA-Gly,Xanthomonas,cissicola,CP003778.1 - ICE tRNA-Gly,GCA_000961475.1,ICE,tRNA-Gly,mobH
+CP009040.1_-_ICE_tRNA-Gly,CP009040.1 - ICE tRNA-Gly,Xanthomonas,cissicola,CP003778.1 - ICE tRNA-Gly,GCA_000961495.1,ICE,tRNA-Gly,mobH
+CP020882.1_-_ICE_tRNA-Gly,CP020882.1 - ICE tRNA-Gly,Xanthomonas,cissicola,CP003778.1 - ICE tRNA-Gly,GCA_002139975.1,ICE,tRNA-Gly,mobH
+CP020885.1_-_ICE_tRNA-Gly,CP020885.1 - ICE tRNA-Gly,Xanthomonas,cissicola,CP003778.1 - ICE tRNA-Gly,GCA_002139955.1,ICE,tRNA-Gly,mobH
+CP020889.1_-_ICE_tRNA-Gly,CP020889.1 - ICE tRNA-Gly,Xanthomonas,cissicola,CP003778.1 - ICE tRNA-Gly,GCA_002139995.1,ICE,tRNA-Gly,mobH
+CP060460.1_-_ICE_tRNA-Gly,CP060460.1 - ICE tRNA-Gly,Xanthomonas,cissicola,CP003778.1 - ICE tRNA-Gly,GCA_016801615.1,ICE,tRNA-Gly,mobH
+CP060465.1_-_ICE_tRNA-Gly,CP060465.1 - ICE tRNA-Gly,Xanthomonas,cissicola,CP003778.1 - ICE tRNA-Gly,GCA_016801635.1,ICE,tRNA-Gly,mobH
+CP066348.1_-_ICE_tRNA-Gly,CP066348.1 - ICE tRNA-Gly,Xanthomonas,cissicola,CP003778.1 - ICE tRNA-Gly,GCA_002019395.2,ICE,tRNA-Gly,mobH
+CP020985.2_-_ICE_tRNA-Gly,CP020985.2 - ICE tRNA-Gly,Xanthomonas,cissicola,CP020985.2 - ICE tRNA-Gly,GCA_002759335.2,ICE,tRNA-Gly,mobH
+CP021012.2_-_ICE_tRNA-Gly,CP021012.2 - ICE tRNA-Gly,Xanthomonas,cissicola,CP020985.2 - ICE tRNA-Gly,GCA_002759375.2,ICE,tRNA-Gly,mobH
+CP022263.1_-_ICE_tRNA-Gly,CP022263.1 - ICE tRNA-Gly,Xanthomonas,cissicola,CP022263.1 - ICE tRNA-Gly,GCA_002218245.1,ICE,tRNA-Gly,mobH
+CP026334.1_-_ICE_tRNA-Gly,CP026334.1 - ICE tRNA-Gly,Xanthomonas,cissicola,CP026334.1 - ICE tRNA-Gly,GCA_008593565.1,ICE,tRNA-Gly,mobH
+CP048044.1_-_ICE_tRNA-Gly,CP048044.1 - ICE tRNA-Gly,Xanthomonas,cissicola,CP048044.1 - ICE tRNA-Gly,GCA_015243835.1,ICE,tRNA-Gly,mobH
+CP048712.1_-_ICE_tRNA-Gly,CP048712.1 - ICE tRNA-Gly,Xanthomonas,cissicola,CP048044.1 - ICE tRNA-Gly,GCA_016495605.1,ICE,tRNA-Gly,mobH
+CP060446.1_-_ICE_tRNA-Gly,CP060446.1 - ICE tRNA-Gly,Xanthomonas,cissicola,CP060446.1 - ICE tRNA-Gly,GCA_016801675.1,ICE,tRNA-Gly,mobH
+CP060453.1_-_ICE_tRNA-Gly,CP060453.1 - ICE tRNA-Gly,Xanthomonas,cissicola,CP060446.1 - ICE tRNA-Gly,GCA_016801695.1,ICE,tRNA-Gly,mobH
+CP060470.1_-_ICE_tRNA-Gly,CP060470.1 - ICE tRNA-Gly,Xanthomonas,cissicola,CP060446.1 - ICE tRNA-Gly,GCA_016801655.1,ICE,tRNA-Gly,mobH
+CP060476.1_-_ICE_tRNA-Gly,CP060476.1 - ICE tRNA-Gly,Xanthomonas,cissicola,CP060476.1 - ICE tRNA-Gly,GCA_016801715.1,ICE,tRNA-Gly,mobH
+CP066343.1_-_ICE_tRNA-Gly,CP066343.1 - ICE tRNA-Gly,Xanthomonas,cissicola,CP060476.1 - ICE tRNA-Gly,GCA_002019265.2,ICE,tRNA-Gly,mobH
+CP098489.1_-_ICE_tRNA-Gly,CP098489.1 - ICE tRNA-Gly,Xanthomonas,cissicola,CP098489.1 - ICE tRNA-Gly,GCA_030582195.1,ICE,tRNA-Gly,mobH
+CP167834.1_-_ICE_tRNA-Gly,CP167834.1 - ICE tRNA-Gly,Xanthomonas,cissicola,CP167834.1 - ICE tRNA-Gly,GCA_041475655.1,ICE,tRNA-Gly,mobH
+CP023155.1_-_ICE_tRNA-Gly,CP023155.1 - ICE tRNA-Gly,Xanthomonas,cissicola,CP023155.1 - ICE tRNA-Gly,GCA_002288565.1,ICE,tRNA-Gly,mobH
+CP090561.1_-_ICE_tRNA-Gly,CP090561.1 - ICE tRNA-Gly,Xanthomonas,cissicola,CP023155.1 - ICE tRNA-Gly,GCA_027186285.1,ICE,tRNA-Gly,mobH
+CP090568.1_-_ICE_tRNA-Gly,CP090568.1 - ICE tRNA-Gly,Xanthomonas,cissicola,CP023155.1 - ICE tRNA-Gly,GCA_027186325.1,ICE,tRNA-Gly,mobH
+CP168195.1_-_ICE_tRNA-Gly,CP168195.1 - ICE tRNA-Gly,Xanthomonas,cissicola,CP023155.1 - ICE tRNA-Gly,GCA_040202935.2,ICE,tRNA-Gly,mobH
+AM920689_-_ICE_tRNA-Leu,AM920689 - ICE tRNA-Leu,Xanthomonas,campestris,AM920689_-_ICE_tRNA-Leu,GCA_000070605.1,ICE,tRNA-Leu,mobH
+CP017308_-_ICE_boundaries_to_be_defined,CP017308 - ICE boundaries to be defined,Xanthomonas,campestris,AM920689_-_ICE_tRNA-Leu,GCA_002776735.1,ICE,tRNA-Leu,mobH
+CP025750_-_ICE_tRNA-Leu,CP025750 - ICE tRNA-Leu,Xanthomonas,campestris,AM920689_-_ICE_tRNA-Leu,GCA_002879955.1,ICE,tRNA-Leu,mobH
+CP124530_-_ICE_tRNA-Leu,CP124530 - ICE tRNA-Leu,Xanthomonas,campestris,AM920689_-_ICE_tRNA-Leu,GCA_030062415.1,ICE,tRNA-Leu,mobH
+CP124531_-_ICE_tRNA_leu_TBD,CP124531 - ICE tRNA leu TBD,Xanthomonas,campestris,AM920689_-_ICE_tRNA-Leu,GCA_030062435.1,ICE,tRNA-Leu,mobH
+CP124533_-_somthing,CP124533 - somthing,Xanthomonas,campestris,AM920689_-_ICE_tRNA-Leu,GCA_030062465.1,ICE,tRNA-Leu,mobH
+CP066931_-_ICE_tRNA-Gly,CP066931 - ICE tRNA-Gly,Xanthomonas,campestris,CP066931_-_ICE_tRNA-Gly,GCA_028749725.1,ICE,tRNA-Gly,mobH
+CP066943_-_ICE_to_be_defined_tRNA-Gly,CP066943 - ICE to be defined tRNA-Gly,Xanthomonas,campestris,CP066943_-_ICE_to_be_defined_tRNA-Gly,GCA_028749885.1,ICE,to be defined tRNA-Gly,mobH
+CP066970_-_ICE_tRNA-Gly,CP066970 - ICE tRNA-Gly,Xanthomonas,campestris,CP066970_-_ICE_tRNA-Gly,GCA_028750375.1,ICE,tRNA-Gly,mobH
+CP066979_-_ICE_tRNA-Gly,CP066979 - ICE tRNA-Gly,Xanthomonas,campestris,CP066979_-_ICE_tRNA-Gly,GCA_028750455.1,ICE,tRNA-Gly,mobH
+CP066980_-_ICE_tRNA-Gly,CP066980 - ICE tRNA-Gly,Xanthomonas,campestris,CP066979_-_ICE_tRNA-Gly,GCA_028750435.1,ICE,tRNA-Gly,mobH
+CP067005_-_ICE_tRNA-Gly,CP067005 - ICE tRNA-Gly,Xanthomonas,campestris,CP066979_-_ICE_tRNA-Gly,GCA_028751465.1,ICE,tRNA-Gly,mobH
+CP066987_-_ICE_tRNA-Gly,CP066987 - ICE tRNA-Gly,Xanthomonas,campestris,CP066987_-_ICE_tRNA-Gly,GCA_028750635.1,ICE,tRNA-Gly,mobH
+CP066988_-_ICE_tRNA-Gly,CP066988 - ICE tRNA-Gly,Xanthomonas,campestris,CP066987_-_ICE_tRNA-Gly,GCA_028750615.1,ICE,tRNA-Gly,mobH
+CP066990_-_ICE_tRNA-Gly,CP066990 - ICE tRNA-Gly,Xanthomonas,campestris,CP066987_-_ICE_tRNA-Gly,GCA_028750655.1,ICE,tRNA-Gly,mobH
+CP089952_-_ICE_tRNA-Gly,CP089952 - ICE tRNA-Gly,Xanthomonas,campestris,CP089952_-_ICE_tRNA-Gly,GCA_021459985.1,ICE,tRNA-Gly,mobH
+CP124745_-_ICE_boundaries_to_be_defined,CP124745 - ICE boundaries to be defined,Xanthomonas,campestris,CP089952_-_ICE_tRNA-Gly,GCA_030848325.1,ICE,boundaries to be defined,mobH
+CP142009_-_ICE_to_be_defined_tRNA-Gly,CP142009 - ICE to be defined tRNA-Gly,Xanthomonas,campestris,CP089952_-_ICE_tRNA-Gly,GCA_035059585.2,ICE,to be defined tRNA-Gly,mobH
+CP142007_-_ICE_tRNA-Gly,CP142007 - ICE tRNA-Gly,Xanthomonas,campestris,CP089952_-_ICE_tRNA-Gly,GCA_035027565.3,ICE,tRNA-Gly,mobH
+CP066934_-_ICE_tRNA-Gly,CP066934 - ICE tRNA-Gly,Xanthomonas,campestris,CP066934_-_ICE_tRNA-Gly,GCA_028749785.1,ICE,tRNA-Gly,mobH
+CP066955_-_ICE_tRNA-Gly,CP066955 - ICE tRNA-Gly,Xanthomonas,campestris,CP066934_-_ICE_tRNA-Gly,GCA_028750035.1,ICE,tRNA-Gly,mobH
+CP066958_-_ICE_tRNA-Gly,CP066958 - ICE tRNA-Gly,Xanthomonas,campestris,CP066958_-_ICE_tRNA-Gly,GCA_028750075.1,ICE,tRNA-Gly,mobH
+CP125657_-_ICE_tRNA-Gly,CP125657 - ICE tRNA-Gly,Xanthomonas,campestris,CP125657_-_ICE_tRNA-Gly,GCA_030053615.1,ICE,tRNA-Gly,mobH
+CP142008_-_ICE_to_be_defined,CP142008 - ICE to be defined,Xanthomonas,campestris,CP142008_-_ICE_to_be_defined,GCA_035027605.3,ICE,to be defined,mobH
+CP101172_-_ICE_tRNA-Gly,CP101172 - ICE tRNA-Gly,Xanthomonas,campestris,CP101172 - ICE tRNA-Gly,GCA_024298625.1,ICE,tRNA-Gly,mobH
+CP017307_-_something,CP017307 - something,Xanthomonas,campestris,,GCA_002776715.1,ICE,TBA tRNA-Leu,mobH
+CP155925_-_ICE_tRNA-Leu,CP155925 - ICE tRNA-Leu,Xanthomonas,campestris,AM920689_-_ICE_tRNA-Leu,GCA_045707255.1,ICE,tRNA-Leu,mobH
+CP155936_-_ICE_tRNA-Leu,CP155936 - ICE tRNA-Leu,Xanthomonas,campestris,AM920689_-_ICE_tRNA-Leu,GCA_045710645.1,ICE,tRNA-Leu,mobH
+CP155942_-_ICE_tRNA-Leu,CP155942 - ICE tRNA-Leu,Xanthomonas,campestris,AM920689_-_ICE_tRNA-Leu,GCA_045711325.1,ICE,tRNA-Leu,mobH
+CP155943_-_ICE_tRNA-Leu,CP155943 - ICE tRNA-Leu,Xanthomonas,campestris,AM920689_-_ICE_tRNA-Leu,GCA_045711565.1,ICE,tRNA-Leu,mobH
+CP155944_-_ICE_tbe,CP155944 - ICE tbe,Xanthomonas,campestris,AM920689_-_ICE_tRNA-Leu,GCA_045711605.1,ICE,,mobH
+CP155945_-_ICE_tbe_-_broken_due_to_genome_rearrangement,CP155945 - ICE tbe - broken due to genome rearrangement,Xanthomonas,campestris,AM920689_-_ICE_tRNA-Leu,GCA_045711635.1,ICE,,mobH
+CP155951_-_ICE_tbe,CP155951 - ICE tbe,Xanthomonas,campestris,AM920689_-_ICE_tRNA-Leu,GCA_045713335.1,ICE,,mobH
+CP155952_-_ICE_tbe,CP155952 - ICE tbe,Xanthomonas,campestris,AM920689_-_ICE_tRNA-Leu,GCA_045714255.1,ICE,,mobH
+CP155978_-_ICE_tbe,CP155978 - ICE tbe,Xanthomonas,campestris,AM920689_-_ICE_tRNA-Leu,GCA_045719845.1,ICE,,mobH
+CP155986_-_ICE_tRNA-Leu,CP155986 - ICE tRNA-Leu,Xanthomonas,campestris,AM920689_-_ICE_tRNA-Leu,GCA_045721565.1,ICE,tRNA-Leu,mobH
+CP155990_-_ICE_tRNA-Leu,CP155990 - ICE tRNA-Leu,Xanthomonas,campestris,AM920689_-_ICE_tRNA-Leu,GCA_045721985.1,ICE,tRNA-Leu,mobH
+CP155992_-_ICE_tRNA-Leu,CP155992 - ICE tRNA-Leu,Xanthomonas,campestris,AM920689_-_ICE_tRNA-Leu,GCA_045722725.1,ICE,tRNA-Leu,mobH
+CP155997_-_ICE_tRNA-Leu,CP155997 - ICE tRNA-Leu,Xanthomonas,campestris,AM920689_-_ICE_tRNA-Leu,GCA_045723205.1,ICE,tRNA-Leu,mobH
+CP156000_-_ICE_tRNA-Leu,CP156000 - ICE tRNA-Leu,Xanthomonas,campestris,AM920689_-_ICE_tRNA-Leu,GCA_045723835.1,ICE,tRNA-Leu,mobH
+CP156003_-_ICE_tbe,CP156003 - ICE tbe,Xanthomonas,campestris,AM920689_-_ICE_tRNA-Leu,GCA_045724485.1,ICE,,mobH
+CP156010_-_ICE_tRNA-Leu,CP156010 - ICE tRNA-Leu,Xanthomonas,campestris,AM920689_-_ICE_tRNA-Leu,GCA_045725285.1,ICE,tRNA-Leu,mobH
+CP155975_-_ICE_tRNA-Gly,CP155975 - ICE tRNA-Gly,Xanthomonas,campestris,CP066931_-_ICE_tRNA-Gly,GCA_045719115.1,ICE,tRNA-Gly,mobH
+CP156013_-_ICE_tRNA-Gly,CP156013 - ICE tRNA-Gly,Xanthomonas,campestris,CP066931_-_ICE_tRNA-Gly,GCA_045726125.1,ICE,tRNA-Gly,mobH
+CP155932_-_ICE_tRNA-Gly,CP155932 - ICE tRNA-Gly,Xanthomonas,campestris,CP155932 - ICE tRNA-Gly,GCA_045709785.1,ICE,tRNA-Gly,mobH
+CP156006_-_ICE_tRNA-Gly,CP156006 - ICE tRNA-Gly,Xanthomonas,campestris,CP155932 - ICE tRNA-Gly,GCA_045725025.1,ICE,tRNA-Gly,mobH
+CP155948_-_ICE_tRNA-Gly,CP155948 - ICE tRNA-Gly,Xanthomonas,campestris,CP155948 - ICE tRNA-Gly,GCA_045712965.1,ICE,tRNA-Gly,mobH
+CP155999_-_ICE_tRNA-Gly,CP155999 - ICE tRNA-Gly,Xanthomonas,campestris,CP155948 - ICE tRNA-Gly,GCA_045723825.1,ICE,tRNA-Gly,mobH
+CP155960_-_ICE_tRNA-Gly,CP155960 - ICE tRNA-Gly,Xanthomonas,campestris,CP155960_-_ICE_tRNA-Gly,GCA_045715785.1,ICE,tRNA-Gly,mobH
+CP155985_-_ICE_tRNA-Gly,CP155985 - ICE tRNA-Gly,Xanthomonas,campestris,CP155985 - ICE tRNA-Gly,GCA_045721555.1,ICE,tRNA-Gly,mobH
+CP155923_-_ICE_-_boundaries_tbd,CP155923 - ICE - boundaries tbd,Xanthomonas,campestris,CP155923 - ICE - boundaries tbd,GCA_045707235.1,ICE,,mobH
+CP066943_-_ICE_tRNA-Gly,CP066943 - ICE tRNA-Gly,Xanthomonas,campestris,CP066943 - ICE tRNA-Gly,GCA_028749885.1.genomic.gbff,ICE,tRNA-Gly,mobH
+C._def_HG916765_-_ICE_tRNA-Gly,C. def HG916765 - ICE tRNA-Gly,Castellaniella,defragrans,,,ICE,tRNA-Gly,
+H._cup_CP094345_-_ICE_tRNA-Gly,H. cup CP094345 - ICE tRNA-Gly,Halomonas,cupida,,,ICE,tRNA-Gly,
+P._aer_CP093015_-_ICE_tRNA-Gly,P. aer CP093015 - ICE tRNA-Gly,Pseudomonas,aeruginosa,,,ICE,tRNA-Gly,
+P._ave_CP028295_-_ICE_pabA,P. ave CP028295 - ICE pabA,Paracidovorax,avenae,,,ICE,pabA,
+P._citr_CP127362_-_ICE_pabA,P. citr CP127362 - ICE pabA,Paracidovorax,citrulli,,,ICE,pabA,
+P._syr_CP126992_-_ICE_tRNA-Gly,P. syr CP126992 - ICE tRNA-Gly,Pseudomonas,syringae,,,ICE,tRNA-Gly,
+P.vir_CP077722_ICE-tRNA-Gly,P. vir CP077722 - ICE tRNA-Gly,Pseudomonas,viridiflava,,,ICE,tRNA-Gly,
+Ste_CP062156_-_ICE_tRNA-Gly-1,Ste CP062156 - ICE tRNA-Gly-1,Stenotrophomonas,sp.,,,ICE,tRNA-Gly,
+Ste_CP062156_-_ICE_tRNA-Gly-2,Ste CP062156 - ICE tRNA-Gly-2,Stenotrophomonas,sp.,,,ICE,tRNA-Gly,
+CP007810_-_ICE_to_be_defined,CP007810 - ICE to be defined,Xanthomonas,oryzae,,GCA_001021915.1,ICE to be defined,,
+Ach_CP026124_ICE_tRNA-Gly,Ach CP026124 ICE tRNA-Gly,Achromobacter, Achromobacter sp.,,,ICE,tRNA-Gly,
+P.aer_CP045916_ICE_tRNA-Gly,P.aer CP045916 ICE tRNA-Gly,Pseudomonas,aeruginosa,,,ICE,tRNA-Gly,
+P.aer_CP106742_ICE-tRNA-Gly,P.aer CP106742 ICE-tRNA-Gly,Pseudomonas,aeruginosa,,,ICE,tRNA-Gly,
+P.cas_CP167995_ICE-tRNA-Gly,P.cas CP167995 ICE-tRNA-Gly,Pseudomonas,caspiana,,,ICE,tRNA-Gly,
+P.syr_CP126992_ICE-tRNA-Gly,P.syr CP126992 ICE-tRNA-Gly,Pseudomonas,syringae,,,ICE,tRNA-Gly,
+CP046019.1_-_ICE_tRNA-Gly,CP046019.1 - ICE tRNA-Gly,Xanthomonas,cissicola,CP046019.1 - ICE tRNA-Gly,GCA_009671025.1,ICE,tRNA-Gly,mobH
+Cup_CP017749_ICE-tRNA-Gly,Cup CP017749 ICE-tRNA-Gly,Cupriavidus,Cupriavidus sp.,,,,,
