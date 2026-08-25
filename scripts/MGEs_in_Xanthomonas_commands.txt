@@ -1,0 +1,54 @@
+##genome annotation with Bakta##
+for file in genomes_fasta_files/*.fasta; do \
+	name=$(basename "$file" .fasta); \
+	bakta -d /patho_to_bakta_database/db \
+	--keep-contig-headers \
+	--output bakta \
+	--force $file; done
+
+
+##MOB search with HMMER##
+#mob profiles were downloaded from here https://github.com/macsy-models/CONJScan
+#input files are the .faa files produced by Bakta
+
+for file in bakta/*.faa; do \
+	name=$(basename $file .faa); \
+	hmmscan --cpu 16 -T 33 \
+		--tblout mob_search/"$name"mob_search.results.txt \
+		-o mob_search/"$name"mob_search.results_extended.txt \
+		/path_to_database/conjscan_hmm_profiles/MOB.hmm "$file"; \
+done
+
+
+## Realphy phylogeny
+## the input folder contains the .fna files dowloaded from NCBI, divided per species of interest, plus the chosen output genome
+## the output folder contains a "config.txt" file containing the location and name of the executable
+## please refer to https://realphy.unibas.ch/docs/Realphy_manual.pdf
+## Realphy was run with default settings
+
+realphy input_folder_fna output_folder 
+
+
+##egg-NOG-mapper
+emapper.py -m diamond -i input/input_file.faa \
+	--data_dir /path_to_egg-NOD_database/eggNOG \
+	-o name_of_output_file --cpu 0
+
+
+##T3SE search with Proteinortho##
+#input files are the .faa files produced by Bakta
+proteinortho -clean -singles -verbose=2 \
+	path_to_bakta_annotated_MGEs/*.faa \
+	path_to_T3SE_file/aminoacid_sequences_T3SE.faa \
+	-project=T3SE_search
+
+##Defense_Finder##
+#input files are the .faa files produced by Bakta
+for file in path_to_bakta_annotated_MGEs/*.faa; do \
+    base=$(basename "$file" .faa) \
+    defense-finder run \
+        --models-dir path_to_DefenseFinder_models \
+        -o your_output_directory \
+        "$file" \
+done
+
